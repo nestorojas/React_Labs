@@ -1,1 +1,2 @@
-# React_Labs
+# React Labs
+## Pokemon app
