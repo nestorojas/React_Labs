@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+  }
+  #pokemon-name{
+    font-size:1.5rem;
+    font-weight: bold;
+  }
+  .pokemon-details {
+    margin-bottom: 20px;
+  }
+  
+  .pokemon-details label {
+    font-weight: bold;
+  }
+  
+  .go-back-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .go-back-button:hover {
+    background-color: #45a049;
+  }
+  
